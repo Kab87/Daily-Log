@@ -29,7 +29,7 @@ Inspired by DHH and Jason Fried's philosophy: I'm learning to code because I gen
 
 - **X (Twitter)**: https://x.com/BalosKenne65649
 - - **Other Repositories**: 
-  - [Python Code Snippets]([link-when-created](https://github.com/Kab87/Python))
+  - https://github.com/Kab87/Python
   - [Automation Projects](link-when-created)
   - [Weekly Blog](link-when-created)
 
